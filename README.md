@@ -53,3 +53,7 @@ La página se volverá a cargar cuando realices cambios.
 También es posible que veas errores de pelusa en la consola.
 
 
+Recomendaciones
+Tener ejecutando el backend pulse_board_backend posteriormente.
+
+
