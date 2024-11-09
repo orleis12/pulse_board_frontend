@@ -1,0 +1,38 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(243 244 246);
+}
+.login-box {
+  background: white;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+}
+.login-header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+.animal-logo {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 16px;
+}
+h1 {
+  color: rgb(6 182 212);
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+.login-button {
+  width: 100%;
+  background: rgb(6 182 212);
+  border-color: rgb(6 182 212);
+}
+.login-button:hover {
+  background: rgb(8 145 178);
+  border-color: rgb(8 145 178);
+}
