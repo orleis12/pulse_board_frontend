@@ -36,7 +36,18 @@ Luego ejecutas el proyecto con el comando:
 ### `npm start`
 
 Ejecuta la aplicación en el modo de desarrollo.
-Abrir [http://localhost:3000](http://localhost:3000) 
+Abrir [http://localhost:3000](http://localhost:3000)
+
+### Para iniciar sesión
+Cuenta Administrador
+username": admin,
+password": Admin123456
+
+Para las cuentas de usuario se encuentra el archivo dataUSer.json
+tomar el nombre de usuario y la contraseña para todos es la misma para cualquier usuario.
+Ejemplo
+username:cespinola0
+password:123456
 
 La página se volverá a cargar cuando realices cambios.
 También es posible que veas errores de pelusa en la consola.
